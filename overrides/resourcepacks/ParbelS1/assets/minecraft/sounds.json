@@ -1,0 +1,13 @@
+{
+  "creeper_cena_explode": {
+    "replace" : "true",
+    "subtitle" : "Super creeper explosion",
+    "sounds" : [
+      {
+        "name" : "damage/death",
+        "volume" : 3,
+        "pitch" : 1,
+        "attenuation_distance": 128
+      }
+    ]
+  },
