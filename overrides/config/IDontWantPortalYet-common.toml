@@ -1,0 +1,11 @@
+
+[Configs]
+	#No comment
+	"Is portal enabled" = true
+	#No comment
+	"Is End portal enabled" = false
+
+	[Configs."Mods portals configs"]
+		#No comment
+		"Is Twilight portal enabled" = true
+

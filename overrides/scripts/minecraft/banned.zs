@@ -18,6 +18,13 @@ val fullBan = ItemStages.restrict(<item:minecraft:end_crystal>, fullBannedStage)
     fullBan.preventPickup(true); // Allow Picking Up
     fullBan.setHiddenInJEI(true); // Allow to be seen in JEI
     fullBan.hiddenName(new TextComponent("???"));
+val fullBan2 = ItemStages.restrict(<item:minecraft:respawn_anchor>, fullBannedStage);
+    fullBan2.preventInventory(true); // Allow to be held
+    fullBan2.preventUsing(true); // Prevent using the ender pearl
+    fullBan2.preventPickup(true); // Allow Picking Up
+    fullBan2.setHiddenInJEI(true); // Allow to be seen in JEI
+    fullBan2.hiddenName(new TextComponent("???"));
+
 
 
 
