@@ -4,8 +4,37 @@
 	"Is portal enabled" = true
 	#No comment
 	"Is End portal enabled" = false
+	#No comment
+	"Time to enable nether portal" = -1
+	#No comment
+	"Message after timer for nether reach 0" = "nether portal is now enabled!"
+	#No comment
+	"Time to enable end portal" = -1
+	#No comment
+	"Message after timer for end reach 0" = "end portal is now enabled!"
 
 	[Configs."Mods portals configs"]
 		#No comment
 		"Is Twilight portal enabled" = true
+		#No comment
+		"Time to enable twilight portal" = -1
+		#No comment
+		"Message after timer for twilight reach 0" = "twilight portal is now enabled!"
+		#Blue Skies
+		"Is Everbright portal enabled" = true
+		#No comment
+		"Time to enable Everbright portal" = -1
+		#No comment
+		"Message after timer for Everbright reach 0" = "Everbright portal is now enabled!"
+		"Is Everdawn portal enabled" = true
+		#No comment
+		"Time to enable Everdawn portal" = -1
+		#No comment
+		"Message after timer for Everdawn reach 0" = "Everdawn portal is now enabled!"
+		#Undergarden
+		"Is Undergarden portal enabled" = true
+		#No comment
+		"Time to enable Undergarden portal" = -1
+		#No comment
+		"Message after timer for Undergarden reach 0" = "Undergarden portal is now enabled!"
 
